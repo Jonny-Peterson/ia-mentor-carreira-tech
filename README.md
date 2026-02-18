@@ -26,3 +26,10 @@ Diferente de prompts convencionais, este agente utiliza técnicas avançadas de 
 
 ---
 Desenvolvido por Jonny Peterson como desafio de projeto no Bootcamp Caixa. 🚀
+
+<img width="1710" height="1253" alt="image" src="https://github.com/user-attachments/assets/ebe5b065-21ab-42b8-a7d5-dc0cc233f77a" />
+
+<img width="1717" height="1249" alt="image" src="https://github.com/user-attachments/assets/b1481ec6-43e9-41b9-b22a-6e5ce33e4b83" />
+
+<img width="1717" height="1251" alt="image" src="https://github.com/user-attachments/assets/47a42697-d2dd-4cec-bf74-5b8e6341adfb" />
+
